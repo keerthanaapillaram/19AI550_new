@@ -1,5 +1,5 @@
 # Ex.No: 10 Implementation of 2D Mini-Project (Football Arcade Game)
-### Name: P Keethana
+### Name: P Keerthana
 ### DATE: 25-05-2026                                                                            
 ### REGISTER NUMBER : 212223240069
 
